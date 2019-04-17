@@ -1,10 +1,11 @@
-------------------------------------------------|             SPAM TELPON UNLIMETED            |
 ------------------------------------------------
-|      Athor     = Radja Aditya Chandra        |
+|	      SPAM TELPON UNLIMETED            |
+------------------------------------------------
+|      Athor     = Exploit747        |
 |      Update    = 07-January-2019             |
 |      TooL Spam = Telpon    		       |
 |      GitHub    = -			       |
-|      Youtube   = Gebang Kiidiw               |
+|      Youtube   = No Youtube                  |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------
 
@@ -115,9 +116,13 @@ class prankcall{
 	}
 }
 echo " \n";
-echo "------------------------------------------------|             SPAM TELPON UNLIMETED            |------------------------------------------------
-|      Athor     = Radja Aditya Chandra        |
-|      Update    = 07-January-2019             ||      TooL Spam = Telpon                      |
+echo "------------------------------------------------
+
+|             SPAM TELPON UNLIMETED            |
+------------------------------------------------
+|      Athor     = Exploit747        |
+|      Update    = 07-January-2019             |
+|      TooL Spam = Telpon                      |
 |      GitHub    = -                           |
 |      Youtube   = Gebang Kiidiw               |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
