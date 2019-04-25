@@ -1,11 +1,11 @@
 ------------------------------------------------
 |	      SPAM TELPON UNLIMETED            |
 ------------------------------------------------
-|      Athor     = Exploit747        |
+|      Athor     = Exploit747                  |
 |      Update    = 07-January-2019             |
 |      TooL Spam = Telpon    		       |
 |      GitHub    = -			       |
-|      Youtube   = No Youtube                  |
+|      Youtube   =                             |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------
 
