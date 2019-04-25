@@ -5,7 +5,7 @@
 |      Update    = 07-January-2019             |
 |      TooL Spam = Telpon    		       |
 |      GitHub    = -			       |
-|      Youtube   =                             |
+|      Youtube   = ada                         |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------
 
